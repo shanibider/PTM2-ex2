@@ -32,7 +32,7 @@ public class Main {
         t2.join();
         t3.join();
         t4.join();
-
+        //int
         System.out.println("Guess this value - "+myint.getValue());
 
         t5.join();
